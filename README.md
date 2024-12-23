@@ -13,7 +13,7 @@ Here’s an SVG of a computer monitor to fit the dynamic showcase theme:
   <line x1="10" y1="70" x2="90" y2="70" stroke="black" stroke-width="3"/>
 </svg>
 
----
+```
 
 🎉 **Hello! I'm Regine!** 🎉  
 Welcome to my GitHub repo.   This is just a preparation, and I wanted to create a website that will be useful, but i don't know the content and subject to focus on. Maybe I could y=just put whatever in my head, and perseverance could do. so bare with me.
