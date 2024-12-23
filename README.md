@@ -1,15 +1,11 @@
 # 🌟 Welcome to Regine's Repository! 🌟
-![Animated REGINE Text](https://your-gif-link-here.com/animated.gif)
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 🎉 **Hello! I'm Regine!** 🎉  
 Welcome to my GitHub repo. This is just a preparation, and I wanted to create a website that will be useful, but I don't know the content and subject to focus on. Maybe I could just put whatever is in my head, and perseverance could do. So bear with me.
 
 ---
 
-## 🎥 **Dynamic Showcase**
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
----
 
 ## 🎨 **Connect with Me**
 - ✉️ [Email Me](mailto:frencilloregine51@gmail.com) or [in my Sorsu account](mailto:reginefrencillo@sorsu.edu.ph)
