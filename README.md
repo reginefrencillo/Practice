@@ -18,3 +18,21 @@ A brief description of your project goes here.
 ```bash
 git clone https://github.com/LabXChange-io/orderxchange-api.git
 cd orderxchange-api
+```
+### 2. Set Up a Virtual Environment
+```bash
+python -m venv venv
+```
+### 3. Activate the Virtual Environment
+- Windows:
+```bash
+venv\Scripts\activate
+```
+- Linux:
+```bash
+source venv/bin/activate
+```
+### 4. Install Dependencies
+```bash
+pip install -r requirements.txy
+```
