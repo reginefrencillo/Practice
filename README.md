@@ -1,8 +1,20 @@
-# 🌟 Welcome to Regine's Repository! 🌟
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+# Labxchange Project  
 
-🎉 **Hello! I'm Regine!** 🎉  
-This repo is for my preparation, and test my skills.
+A brief description of your project goes here.  
 
----
+## Features  
+- Feature 1  
+- Feature 2  
+- Feature 3  
 
+## Prerequisites  
+- Python 3.x  
+- Git  
+- pip  
+
+## Setup Instructions  
+
+### 1. Clone the Repository  
+```bash
+git clone https://github.com/LabXChange-io/orderxchange-api.git
+cd orderxchange-api
