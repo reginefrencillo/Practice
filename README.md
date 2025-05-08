@@ -1,16 +1,23 @@
-# Labxchange Project  
-
-A brief description of your project goes here.  
+# Orderxchange (Backend)
+This repository contains the backend API for LabXChange Project, developed with Django and Django REST Framework (DRF). It is one of several repositories pf LabXChange system.
 
 ## Features  
-- Feature 1  
-- Feature 2  
-- Feature 3  
+- Django & DRF Setup: A boilerplate setup for Django and Django REST Framework.
+- Dotenv Configuration: Environment variables management using python-dotenv.
+- Multiple Database Configurations: Template supports multiple database setups.
+- Media and Static URL Configurations: Basic configurations for handling media and static files.
+- Git Ignore: .gitignore is set up to avoid tracking unnecessary files.
+- Authentication System: Custom user authentication flows with support for Two-Factor Authentication (2FA).
+- Insurance Handling: 
+- Dockerize Development and Deployment:
+- Result Processing:
 
 ## Prerequisites  
-- Python 3.x  
+- Python 3.10+  
 - Git  
 - pip  
+- Docker and Docker Compose
+- Virtual Environment
 
 ## Setup Instructions  
 
